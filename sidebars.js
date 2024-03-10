@@ -147,6 +147,7 @@ module.exports = {
       items: [
         'latest/breaking-changes',
         'latest/tutorial/electron-timelines',
+        'latest/tutorial/electron-support',
         'latest/tutorial/electron-versioning',
         'latest/faq',
         'latest/glossary',
